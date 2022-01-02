@@ -4,6 +4,8 @@ title:  "How my blog is made?!"
 date:   2022-01-03 00:56:42 +0300
 categories: how_made
 ---
+Краткая последовательность создания блога.
+
 • Создаём репозиторий на github. Определенные требования к наименованию.
 
 • Клонируем репозиторий на локальный комп, через командную строку или через  гитхаб десктоп.
@@ -18,11 +20,13 @@ git clone https://github.com/NikLaz25/Niklaz25.github.io
 	○ gem install jekyll bundler
 	○ sudo apt install jekyll
 	○ jekyll -v   смотрим что установилось
-• Создаём скелет блога :
+
+• Создаём скелет блога:
 
 	○ cd myblog
 	○ jekyll new . --force устанавливает файлы прямо в папку 
-	○ Я сервер не ставил…  bundle exec jekyll serve 
+	○ Я сервер не ставил…  bundle exec jekyll serve
+
 • Заходим в IDE.
 
 • Открываем проект - локальную папку.
