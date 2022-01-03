@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Как повернуть матрицу Python"
+date:   2022-01-04 00:30:00 +0300
+categories: how_made
+---
+![img.png](img.png)
+
+Ссылка на мой код
+
+https://github.com/NikLaz25/Training_1/blob/main/task_24_4.py
+
+
+Протестировано с помощью unittest
+
+https://github.com/NikLaz25/Training_1/blob/main/task_24_2_test.py
