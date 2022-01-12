@@ -57,5 +57,11 @@ categories: python algorithms
 
 https://github.com/NikLaz25/Algorithms_1/blob/main/LinkedList_test_5.py
 
+'''метод который получает на вход два связанных списка,
+    состоящие из целых значений, и если их длины равны,
+    возвращает список, каждый элемент которого равен
+    сумме соответствующих элементов входных списков'''
+
+https://github.com/NikLaz25/Algorithms_1/blob/main/two_LinkedList.py
 
 P.S. Пришлось конкретно вспомнить основы по ООП. Наконец-то!) 
