@@ -40,14 +40,14 @@ categories: python tasks
 Код скорректирован с учетом рекомендаций линтера 
 
 
-[Ссылка на мой код] [id]
+[Ссылка на мой код] [id_1]
 
-[id]: https://github.com/NikLaz25/Training_1/blob/main/task_24_4.py
+[id_1]: https://github.com/NikLaz25/Training_1/blob/main/task_24_4.py
 
 
-[Протестировано с помощью unittest] [id]
+[Протестировано с помощью unittest] [id_2]
 
-[id]: https://github.com/NikLaz25/Training_1/blob/main/task_24_2_test.py
+[id_2]: https://github.com/NikLaz25/Training_1/blob/main/task_24_2_test.py
 
 Оценка меры сложности алгоритма поворота матрицы.
 Сделал оценку по рассмотренной задаче. Верхняя оценка сложности О-большое равна квадратичной зависимости О(n^3). Одним словом, для реальных данных алгоритм пришлось бы переделывать.
