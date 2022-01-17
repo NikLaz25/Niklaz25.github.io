@@ -47,21 +47,18 @@ categories: python algorithms
 	'''Вспомогательный метод для тестирования.
         Выводит значения связанного списка в обычный список'''
 
-
-[Мой код '''Работа со связанным списком'''] [id]
-[id]: https://github.com/NikLaz25/Algorithms_1/blob/main/LinkedList_5.py
+[id_1]: https://github.com/NikLaz25/Algorithms_1/blob/main/LinkedList_5.py
+[Мой код '''Работа со связанным списком'''] [id_1]
 
 Отдельно проверено на линтере pylint
 
+[id_2]: https://github.com/NikLaz25/Algorithms_1/blob/main/LinkedList_test_5.py
+[Код  '''проверочные тесты'''] [id_2]
 
-[Код  '''проверочные тесты'''] [id]
-
-[id]: https://github.com/NikLaz25/Algorithms_1/blob/main/LinkedList_test_5.py
-
-'''[Метод который получает на вход два связанных списка] [id],
+[id_3]: https://github.com/NikLaz25/Algorithms_1/blob/main/two_LinkedList.py
+'''[Метод который получает на вход два связанных списка] [id_3],
 состоящие из целых значений, и если их длины равны,
     возвращает список, каждый элемент которого равен
     сумме соответствующих элементов входных списков'''
 
-[id]: https://github.com/NikLaz25/Algorithms_1/blob/main/two_LinkedList.py
 P.S. Пришлось конкретно вспомнить основы по ООП. Наконец-то!) 
