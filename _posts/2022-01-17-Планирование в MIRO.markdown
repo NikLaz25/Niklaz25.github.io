@@ -4,7 +4,7 @@ title:  "Планирование задач в MIRO"
 date:   2022-01-17 00:00:00 +0000
 categories: Different
 ---
-[id]: (https://github.com/NikLaz25/Different-tasks/blob/main/Miro_1.PNG)
+[id]: https://github.com/NikLaz25/Different-tasks/blob/main/Miro_1.PNG
 
 Планирование и самоорганизация, это одна из важнейших тем, если Вы хотите чего-то добиться.
 За годы работы и учёбы я перепробовал множество систем и подходов, от записной книжки, до корпоративных автоматизированных систем.
