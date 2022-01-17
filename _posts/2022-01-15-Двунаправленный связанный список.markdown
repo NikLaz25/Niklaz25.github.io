@@ -35,9 +35,11 @@ categories: python algorithms
 Нюансов много, но этот я с первого раза не заметил.
 В целом, все интересные моменты постарался описать в комментариях к коду.
 
-[Мой код '''Работа с двунаправленным связанным списком'''] [https://github.com/NikLaz25/Algorithms_1/blob/main/LinkedList2_1.py]
+[id_1]: https://github.com/NikLaz25/Algorithms_1/blob/main/LinkedList2_1.py
+[Мой код '''Работа с двунаправленным связанным списком'''] [id_1]
 
-[Код  '''проверочные тесты'''] [https://github.com/NikLaz25/Algorithms_1/blob/main/LinkedList_test_2_1.py]
+[id_2]: https://github.com/NikLaz25/Algorithms_1/blob/main/LinkedList_test_2_1.py
+[Код  '''проверочные тесты'''] [id_2]
 
 P.S. Похоже на однонаправленный связанный список, но есть свои нюансы.
 
