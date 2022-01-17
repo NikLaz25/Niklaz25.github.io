@@ -13,7 +13,10 @@ categories: Different
 
 [Вот пример моей доски со стикерами по обучению.] [id]:
 
-![img_4.png](img_4.png)
+[рис_1]: img_4.png
+
+
+![img_4.png] [рис_1]
 
 
 
