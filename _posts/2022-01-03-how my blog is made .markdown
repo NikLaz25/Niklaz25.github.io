@@ -13,13 +13,15 @@ git clone https://github.com/NikLaz25/Niklaz25.github.io
 
 • Уcтанавливаем ruby, git,  gem, jekill:
 
-	○ sudo apt-get update
-	○ sudo apt-get install git
-	○ sudo apt install ruby
-	○ sudo apt install gem
-	○ gem install jekyll bundler
-	○ sudo apt install jekyll
-	○ jekyll -v   смотрим что установилось
+{% highlight ruby %}
+sudo apt-get update
+sudo apt-get install git
+sudo apt install ruby
+sudo apt install gem
+gem install jekyll bundler
+sudo apt install jekyll
+jekyll -v   смотрим что установилось
+{% endhighlight %}
 
 • Создаём скелет блога:
 
@@ -46,8 +48,12 @@ P.S. Так-то всё просто, но по факту пришлось по
 
 • Ссылки:
 
-	○ https://pages.github.com  основная инструкция
-	○  https://jekyllrb.com  джекилл
-	○ Крутая статья, вроде всё по делу https://gosha20777.github.io/blog/github/jekyll/2017/01/28/blog-with-github/
-	○ Лена делает блог на github pages #1  https://www.youtube.com/watch?v=DFDlQWAP8Y4 
+[Основная инструкция] [1]
+[Джекилл] [2]
+[Крутая статья, вроде всё по делу] [3]
+[Лена делает блог на github pages #1] [4]
 
+[1]: https://pages.github.com
+[2]: https://jekyllrb.com
+[3]: https://gosha20777.github.io/blog/github/jekyll/2017/01/28/blog-with-github/
+[4]: https://www.youtube.com/watch?v=DFDlQWAP8Y4
