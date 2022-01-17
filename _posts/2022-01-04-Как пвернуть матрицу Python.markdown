@@ -4,7 +4,6 @@ title:  "Как повернуть матрицу Python"
 date:   2022-01-04 00:30:00 +0300
 categories: python tasks
 ---
-![img.png](img.png)
 Для меня это было интересным заданием. Спешу поделиться своими размышлениями)
 
 Дана матрица размером x на y:
@@ -41,14 +40,14 @@ categories: python tasks
 Код скорректирован с учетом рекомендаций линтера 
 
 
-Ссылка на мой код
+[Ссылка на мой код] [id]
 
-https://github.com/NikLaz25/Training_1/blob/main/task_24_4.py
+[id]: https://github.com/NikLaz25/Training_1/blob/main/task_24_4.py
 
 
-Протестировано с помощью unittest
+[Протестировано с помощью unittest] [id]
 
-https://github.com/NikLaz25/Training_1/blob/main/task_24_2_test.py
+[id]: https://github.com/NikLaz25/Training_1/blob/main/task_24_2_test.py
 
 Оценка меры сложности алгоритма поворота матрицы.
 Сделал оценку по рассмотренной задаче. Верхняя оценка сложности О-большое равна квадратичной зависимости О(n^3). Одним словом, для реальных данных алгоритм пришлось бы переделывать.
