@@ -15,3 +15,7 @@ categories: Different
 
 ![img_4.png](img_4.png)
 ![img_4.png] [id]
+
+[рис_1]: C:\Users\Ник\Pictures\Вспомогательные изображения\miro1.PNG
+
+
