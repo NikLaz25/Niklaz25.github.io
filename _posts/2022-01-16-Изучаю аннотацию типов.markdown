@@ -4,22 +4,29 @@ title:  "Изучаю аннотацию типов"
 date:   2022-01-16 00:00:00 +0000
 categories: python tasks
 ---
-Изучаю аннотацию типов.
+##Изучаю аннотацию типов.
+
 Краткий конспект:
 
-Используем mypy
+1. Используем mypy
+>pip install mypy
+>
+>	mypy LinkedList2_1.py
 
-	pip install mypy
-	mypy LinkedList2_1.py
-Встроенные типы
-	from typing import Optional
+2. Встроенные типы
+>	from typing import Optional
 
-    Any
-    Union
-    Списки
-    Кортежи
-    Словари
-    Результат выполнения функции
+>    Any
+> 
+>    Union
+> 
+>    Списки
+> 
+>    Кортежи
+> 
+>    Словари
+> 
+>    Результат выполнения функции
 
 [1]: https://github.com/NikLaz25/Algorithms_1/blob/main/two_LinkedList.py
 [Добавил аннотации типов для метода сложения связанных списков] [1]
