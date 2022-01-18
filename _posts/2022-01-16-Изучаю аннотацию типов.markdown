@@ -13,8 +13,9 @@ categories: python tasks
    
     mypy LinkedList2_1.py
 
-3. Встроенные типы
-     from typing import Optional
+2. Встроенные типы
+     
+   from typing import Optional
 
     Any
 
