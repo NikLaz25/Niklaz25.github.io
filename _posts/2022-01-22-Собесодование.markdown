@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Подготовка к техническому собеседованию"
-date:   2022-01-22 00:00:00 +0000
+date:   2022-01-21 00:00:00 +0000
 categories: python
 ---
 [id_1]: https://habr.com/ru/company/vk/blog/506824/
