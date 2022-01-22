@@ -46,7 +46,7 @@ categories: python
 
 
 [id_Задачи]: https://github.com/NikLaz25/Python_tasks_6
-[Ссылка на задачи] [id_Задачи]
+[Ссылка на базовые задачи по ООП] [id_Задачи]
 
 [id_лото]: https://github.com/NikLaz25/Game-Loto/blob/master/8.result.py
 [По результату прохождения курса Python основы, был реализован проект - Игра Лото. В проекте я применил полученные знания по ООП.] [id_лото]
