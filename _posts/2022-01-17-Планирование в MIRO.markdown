@@ -5,9 +5,9 @@ date:   2022-01-17 00:00:00 +0000
 categories: Different
 ---
 [id]: https://github.com/NikLaz25/Niklaz25.github.io/blob/main/_posts/img_4.JPG
-[Рисунок]: https://github.com/NikLaz25/Niklaz25.github.io/blob/main/_posts/img_4.JPG
+[Рисунок]: Niklaz25.github.io/_posts/img_4.JPG
 
-Рис
+Рисунок
 
 
 Планирование и самоорганизация, это одна из важнейших тем, если Вы хотите чего-то добиться.
@@ -17,7 +17,7 @@ categories: Different
 
 [Вот пример моей доски со стикерами по обучению] [id]
 
-[рис_1]: Niklaz25.github.io/_posts/img_4.JPG
+[рис_1]: 
 
 
 ![screenshot] [Рисунок]
