@@ -16,8 +16,8 @@ categories: Different
 [Вот пример моей доски со стикерами по обучению] [id]
 
 <figure>
-	<img src="{{ '/_posts/img_4.JPG' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Вот пример моей доски со стикерами по обучению</figcaption>
+	<img src="{{ '/assets/img/miro2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Cкриншот!</figcaption>
 </figure>
 
 
