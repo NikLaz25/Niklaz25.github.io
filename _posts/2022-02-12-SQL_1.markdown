@@ -25,7 +25,7 @@ categories: SQL
 
 <figure>
 	<img src="{{ '/assets/img/img_SO.png' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Вариант итогового отчёта ( данные для демонстрации изменены)</figcaption>
+	<figcaption>Вариант итогового отчёта (данные для демонстрации изменены)</figcaption>
 </figure>
 
 [Ссылка на проект] [id_1]
